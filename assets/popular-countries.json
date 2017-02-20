@@ -1,0 +1,44 @@
+[
+  {
+    "countryCode": "US",
+    "countryName": "United States",
+    "capital": "Washington D.C.",
+    "continent": "NA"
+  },
+  {
+    "countryCode": "GB",
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "continent": "EU"
+  },
+  {
+    "countryCode": "IN",
+    "countryName": "India",
+    "capital": "New Delhi",
+    "continent": "AS"
+  },
+  {
+    "countryCode": "DE",
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "continent": "EU"
+  },
+  {
+    "countryCode": "CN",
+    "countryName": "China",
+    "capital": "Beijing",
+    "continent": "AS"
+  },
+  {
+    "countryCode": "CA",
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "continent": "NA"
+  },
+  {
+    "countryCode": "BR",
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "continent": "SA"
+  }
+]
