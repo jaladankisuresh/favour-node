@@ -6,7 +6,8 @@ module.exports = {
     function(data){
       let dataObj = new DataServiceWrapper();
       dataObj.data = data;
-      res.json({dataObj});
+      console.log(dataObj);
+      res.json(dataObj);
     },
     function(err){
       console.log(err.message);
